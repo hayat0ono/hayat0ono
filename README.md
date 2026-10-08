@@ -23,6 +23,8 @@
 
 [![Python, PyTorch, C++ , LaTeX, Linux, and Docker](https://skillicons.dev/icons?i=python,pytorch,cpp,latex,linux,docker&theme=dark)](https://skillicons.dev/)
 
+<!-- 
 ## 🚀 Projects
 
 To be added.
+-->
