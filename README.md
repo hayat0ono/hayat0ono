@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **PhD student at the University of Tokyo**, focusing on machine learning and neuroscience.
+- 🎓 **PhD student at the University of Tokyo (expected graduation: March 2028)**, focusing on machine learning and neuroscience.
 - 🧩 **Algorithmic Engineer at pluszero Inc.**, solving real-world problems through algorithmic approaches.
 - 📊 **Former Data Science Intern at enechain Inc.**, forecasting electricity prices from energy price time series.
 
-💼 **Open to job and internship opportunities.** Feel free to reach out via [email](mailto:hyt.ono.0628@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hayato-ono/).
+💼 **Open to Internship in summer 2027 & full-time opportunities starting in spring 2028.** Feel free to reach out via [email](mailto:hyt.ono.0628@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hayato-ono/).
 
 ## 🧠 Current Focus
 
