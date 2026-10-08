@@ -26,16 +26,3 @@
 ## 🚀 Projects
 
 To be added.
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/hayat0ono">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hayat0ono&show_icons=true&theme=dark" alt="Hayato's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hayat0ono&theme=dark" alt="GitHub Streak" />
-</p>
