@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="mailto:hyt.ono.0628@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://hayat0ono.github.io/index.html"><img src="https://img.shields.io/badge/Homepage-2563EB?style=flat-square" alt="Homepage"></a>
   <a href="https://github.com/hayat0ono"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/hayato-ono/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -23,8 +24,10 @@
 
 [![Python, PyTorch, C++ , LaTeX, Linux, and Docker](https://skillicons.dev/icons?i=python,pytorch,cpp,latex,linux,docker&theme=dark)](https://skillicons.dev/)
 
-<!-- 
 ## 🚀 Projects
 
-To be added.
--->
+**[competitive-programming](https://github.com/hayat0ono/competitive-programming)**<br>
+Python and C++ solutions for LeetCode and AtCoder, with reusable algorithm snippets.
+
+**[content-style-stability](https://github.com/amano-k-lab/content-style-stability)**<br>
+Python implementation of "Subspace Image Synthesis for Style-Invariant Object Recognition".
